@@ -21,11 +21,6 @@
  * The instructions were horrendous and just confusing once some of the "hidden" rules were revealed. I am not spending any more time on this terrible problem.
  */
 
-
-
-
-
-
 // import { readInput, readIntoArray } from "../util/readIntoArray";
 // import * as fs from 'fs';
 
